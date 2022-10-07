@@ -692,6 +692,7 @@ list-clients-icon:hover .clients-icon {
     opacity: 0;
     visibility: hidden;
     pointer-events: none;
+    
 }
 /* modal */
 .modal {
